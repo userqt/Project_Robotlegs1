@@ -15,9 +15,7 @@ package
 		public function Project_Robotlegs1()
 		{
 			_context = new HelloWorldContext( this );
-
 			init();
-
 		}
 
 		private function init():void
