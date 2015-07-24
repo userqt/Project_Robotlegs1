@@ -1,0 +1,1445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0413cbc-8e61-4f9a-9af9-5faccbb5af5e" name="Default" comment="Test">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/robotlegs-framework-v1.5.2.swc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/context/HelloWorldContext.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/view/MessageView.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/view/MessageViewMediator.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project_Robotlegs1.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/flexCompiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\.idea\compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\.idea\copyright\profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\.idea\encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\.idea\flexCompiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\.idea\scopes\scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\.idea\uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\.idea\workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\Robotlegs_Proj1.iml" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\Main-descriptor.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\Main.swf" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\bin\robotlegs-framework-v2.2.1.swc" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\changelog.txt" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\AC_OETags.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\all-classes.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\all-index-A.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\all-index-B.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\all-index-C.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\all-index-D.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\all-index-E.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\all-index-F.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\all-index-G.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\all-index-H.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\all-index-I.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\all-index-J.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\all-index-K.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\all-index-L.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\all-index-M.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\all-index-N.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\all-index-O.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\all-index-P.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\all-index-Q.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\all-index-R.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\all-index-S.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\all-index-T.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\all-index-U.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\all-index-V.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\all-index-W.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\all-index-X.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\all-index-Y.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\all-index-Z.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\asdoc.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\class-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\cookies.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\help.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\images\AirIcon12x12.gif" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\images\P_AlternativeMetadataIndicator_30x28_N.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\images\collapsed.gif" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\images\detailHeaderRule.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\images\detailSectionHeader.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\images\expanded.gif" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\images\inherit-arrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\images\inheritedSummary.gif" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\images\logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\images\titleTableBottom.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\images\titleTableMiddle.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\images\titleTableTop.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\index-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\index.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\override.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\package-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\print.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\bundles\mvcs\Command.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\bundles\mvcs\MVCSBundle.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\bundles\mvcs\Mediator.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\bundles\mvcs\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\bundles\mvcs\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\commandCenter\api\ICommand.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\commandCenter\api\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\commandCenter\api\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\contextView\ContextView.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\contextView\ContextViewExtension.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\contextView\ContextViewListenerConfig.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\contextView\StageSyncExtension.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\contextView\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\contextView\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\directCommandMap\DirectCommandMapExtension.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\directCommandMap\api\IDirectCommandMap.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\directCommandMap\api\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\directCommandMap\api\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\directCommandMap\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\directCommandMap\impl\DirectCommandMap.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\directCommandMap\impl\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\directCommandMap\impl\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\directCommandMap\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\enhancedLogging\InjectableLoggerExtension.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\enhancedLogging\InjectorActivityLoggingExtension.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\enhancedLogging\TraceLoggingExtension.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\enhancedLogging\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\enhancedLogging\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\eventCommandMap\EventCommandMapExtension.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\eventCommandMap\api\IEventCommandMap.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\eventCommandMap\api\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\eventCommandMap\api\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\eventCommandMap\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\eventCommandMap\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\eventDispatcher\EventDispatcherExtension.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\eventDispatcher\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\eventDispatcher\impl\EventRelay.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\eventDispatcher\impl\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\eventDispatcher\impl\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\eventDispatcher\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\localEventMap\LocalEventMapExtension.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\localEventMap\api\IEventMap.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\localEventMap\api\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\localEventMap\api\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\localEventMap\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\localEventMap\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\matching\ITypeFilter.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\matching\ITypeMatcher.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\matching\ITypeMatcherFactory.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\matching\PackageFilter.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\matching\PackageMatcher.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\matching\TypeMatcher.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\matching\TypeMatcherError.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\matching\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\matching\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\matching\package.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\mediatorMap\MediatorMapExtension.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\mediatorMap\api\IMediator.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\mediatorMap\api\IMediatorMap.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\mediatorMap\api\IMediatorMapping.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\mediatorMap\api\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\mediatorMap\api\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\mediatorMap\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\mediatorMap\dsl\IMediatorConfigurator.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\mediatorMap\dsl\IMediatorMapper.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\mediatorMap\dsl\IMediatorUnmapper.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\mediatorMap\dsl\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\mediatorMap\dsl\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\mediatorMap\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\modularity\ModularityExtension.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\modularity\api\IModuleConnector.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\modularity\api\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\modularity\api\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\modularity\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\modularity\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\viewManager\ManualStageObserverExtension.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\viewManager\StageCrawlerExtension.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\viewManager\StageObserverExtension.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\viewManager\ViewManagerExtension.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\viewManager\api\IViewHandler.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\viewManager\api\IViewManager.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\viewManager\api\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\viewManager\api\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\viewManager\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\viewManager\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\viewProcessorMap\ViewProcessorMapExtension.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\viewProcessorMap\api\IViewProcessorMap.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\viewProcessorMap\api\ViewProcessorMapError.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\viewProcessorMap\api\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\viewProcessorMap\api\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\viewProcessorMap\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\viewProcessorMap\dsl\IViewProcessorMapper.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\viewProcessorMap\dsl\IViewProcessorMapping.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\viewProcessorMap\dsl\IViewProcessorMappingConfig.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\viewProcessorMap\dsl\IViewProcessorUnmapper.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\viewProcessorMap\dsl\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\viewProcessorMap\dsl\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\viewProcessorMap\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\viewProcessorMap\utils\FastPropertyInjector.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\viewProcessorMap\utils\MediatorCreator.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\viewProcessorMap\utils\PropertyValueInjector.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\viewProcessorMap\utils\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\viewProcessorMap\utils\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\vigilance\VigilanceExtension.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\vigilance\VigilantError.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\vigilance\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\extensions\vigilance\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\framework\api\IBundle.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\framework\api\IConfig.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\framework\api\IContext.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\framework\api\IExtension.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\framework\api\IGuard.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\framework\api\IHook.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\framework\api\IInjector.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\framework\api\ILifecycle.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\framework\api\ILogTarget.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\framework\api\ILogger.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\framework\api\IMatcher.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\framework\api\LifecycleError.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\framework\api\LifecycleEvent.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\framework\api\LifecycleState.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\framework\api\LogLevel.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\framework\api\PinEvent.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\framework\api\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\framework\api\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\framework\impl\Context.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\framework\impl\MessageDispatcher.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\framework\impl\RobotlegsInjector.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\framework\impl\UID.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\framework\impl\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\framework\impl\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\framework\impl\package.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\mxml\ContextBuilderTag.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\mxml\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\robotlegs\bender\mxml\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\style.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\title-bar.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\docs\toplevel.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\libs\Swiftsuspenders-v2.1.0.swc" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\license.txt" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\src\robotlegs\bender\bundles\mvcs\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\src\robotlegs\bender\bundles\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\src\robotlegs\bender\extensions\commandCenter\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\src\robotlegs\bender\extensions\contextView\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\src\robotlegs\bender\extensions\directCommandMap\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\src\robotlegs\bender\extensions\enhancedLogging\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\src\robotlegs\bender\extensions\eventCommandMap\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\src\robotlegs\bender\extensions\eventDispatcher\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\src\robotlegs\bender\extensions\localEventMap\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\src\robotlegs\bender\extensions\matching\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\src\robotlegs\bender\extensions\mediatorMap\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\src\robotlegs\bender\extensions\modularity\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\src\robotlegs\bender\extensions\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\src\robotlegs\bender\extensions\viewManager\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\src\robotlegs\bender\extensions\viewProcessorMap\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\src\robotlegs\bender\extensions\vigilance\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\src\robotlegs\bender\framework\readme-async.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\src\robotlegs\bender\framework\readme-context.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\src\robotlegs\bender\framework\readme-guards.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\src\robotlegs\bender\framework\readme-hooks.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\src\robotlegs\bender\framework\readme-lifecycle.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\src\robotlegs\bender\framework\readme-logging.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\src\robotlegs\bender\framework\readme-message-dispatcher.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\src\robotlegs\bender\framework\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\src\robotlegs\bender\mxml\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\src\robotlegs\bender\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\out\production\Robotlegs_Proj1\frameworks\robotlegs\src\robotlegs\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\bin\robotlegs-framework-v2.2.1.swc" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\changelog.txt" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\AC_OETags.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\all-classes.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\all-index-A.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\all-index-B.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\all-index-C.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\all-index-D.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\all-index-E.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\all-index-F.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\all-index-G.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\all-index-H.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\all-index-I.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\all-index-J.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\all-index-K.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\all-index-L.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\all-index-M.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\all-index-N.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\all-index-O.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\all-index-P.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\all-index-Q.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\all-index-R.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\all-index-S.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\all-index-T.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\all-index-U.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\all-index-V.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\all-index-W.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\all-index-X.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\all-index-Y.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\all-index-Z.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\asdoc.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\class-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\cookies.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\help.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\images\AirIcon12x12.gif" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\images\P_AlternativeMetadataIndicator_30x28_N.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\images\collapsed.gif" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\images\detailHeaderRule.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\images\detailSectionHeader.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\images\expanded.gif" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\images\inherit-arrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\images\inheritedSummary.gif" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\images\logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\images\titleTableBottom.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\images\titleTableMiddle.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\images\titleTableTop.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\index-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\index.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\override.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\package-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\print.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\bundles\mvcs\Command.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\bundles\mvcs\MVCSBundle.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\bundles\mvcs\Mediator.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\bundles\mvcs\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\bundles\mvcs\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\commandCenter\api\ICommand.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\commandCenter\api\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\commandCenter\api\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\contextView\ContextView.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\contextView\ContextViewExtension.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\contextView\ContextViewListenerConfig.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\contextView\StageSyncExtension.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\contextView\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\contextView\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\directCommandMap\DirectCommandMapExtension.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\directCommandMap\api\IDirectCommandMap.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\directCommandMap\api\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\directCommandMap\api\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\directCommandMap\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\directCommandMap\impl\DirectCommandMap.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\directCommandMap\impl\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\directCommandMap\impl\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\directCommandMap\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\enhancedLogging\InjectableLoggerExtension.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\enhancedLogging\InjectorActivityLoggingExtension.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\enhancedLogging\TraceLoggingExtension.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\enhancedLogging\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\enhancedLogging\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\eventCommandMap\EventCommandMapExtension.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\eventCommandMap\api\IEventCommandMap.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\eventCommandMap\api\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\eventCommandMap\api\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\eventCommandMap\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\eventCommandMap\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\eventDispatcher\EventDispatcherExtension.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\eventDispatcher\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\eventDispatcher\impl\EventRelay.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\eventDispatcher\impl\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\eventDispatcher\impl\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\eventDispatcher\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\localEventMap\LocalEventMapExtension.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\localEventMap\api\IEventMap.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\localEventMap\api\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\localEventMap\api\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\localEventMap\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\localEventMap\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\matching\ITypeFilter.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\matching\ITypeMatcher.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\matching\ITypeMatcherFactory.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\matching\PackageFilter.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\matching\PackageMatcher.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\matching\TypeMatcher.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\matching\TypeMatcherError.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\matching\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\matching\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\matching\package.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\mediatorMap\MediatorMapExtension.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\mediatorMap\api\IMediator.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\mediatorMap\api\IMediatorMap.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\mediatorMap\api\IMediatorMapping.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\mediatorMap\api\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\mediatorMap\api\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\mediatorMap\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\mediatorMap\dsl\IMediatorConfigurator.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\mediatorMap\dsl\IMediatorMapper.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\mediatorMap\dsl\IMediatorUnmapper.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\mediatorMap\dsl\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\mediatorMap\dsl\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\mediatorMap\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\modularity\ModularityExtension.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\modularity\api\IModuleConnector.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\modularity\api\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\modularity\api\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\modularity\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\modularity\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\viewManager\ManualStageObserverExtension.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\viewManager\StageCrawlerExtension.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\viewManager\StageObserverExtension.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\viewManager\ViewManagerExtension.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\viewManager\api\IViewHandler.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\viewManager\api\IViewManager.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\viewManager\api\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\viewManager\api\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\viewManager\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\viewManager\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\viewProcessorMap\ViewProcessorMapExtension.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\viewProcessorMap\api\IViewProcessorMap.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\viewProcessorMap\api\ViewProcessorMapError.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\viewProcessorMap\api\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\viewProcessorMap\api\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\viewProcessorMap\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\viewProcessorMap\dsl\IViewProcessorMapper.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\viewProcessorMap\dsl\IViewProcessorMapping.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\viewProcessorMap\dsl\IViewProcessorMappingConfig.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\viewProcessorMap\dsl\IViewProcessorUnmapper.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\viewProcessorMap\dsl\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\viewProcessorMap\dsl\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\viewProcessorMap\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\viewProcessorMap\utils\FastPropertyInjector.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\viewProcessorMap\utils\MediatorCreator.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\viewProcessorMap\utils\PropertyValueInjector.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\viewProcessorMap\utils\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\viewProcessorMap\utils\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\vigilance\VigilanceExtension.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\vigilance\VigilantError.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\vigilance\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\extensions\vigilance\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\framework\api\IBundle.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\framework\api\IConfig.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\framework\api\IContext.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\framework\api\IExtension.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\framework\api\IGuard.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\framework\api\IHook.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\framework\api\IInjector.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\framework\api\ILifecycle.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\framework\api\ILogTarget.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\framework\api\ILogger.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\framework\api\IMatcher.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\framework\api\LifecycleError.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\framework\api\LifecycleEvent.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\framework\api\LifecycleState.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\framework\api\LogLevel.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\framework\api\PinEvent.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\framework\api\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\framework\api\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\framework\impl\Context.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\framework\impl\MessageDispatcher.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\framework\impl\RobotlegsInjector.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\framework\impl\UID.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\framework\impl\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\framework\impl\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\framework\impl\package.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\mxml\ContextBuilderTag.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\mxml\class-list.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\robotlegs\bender\mxml\package-detail.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\style.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\title-bar.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\docs\toplevel.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\libs\Swiftsuspenders-v2.1.0.swc" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\license.txt" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\bundles\mvcs\Command.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\bundles\mvcs\MVCSBundle.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\bundles\mvcs\Mediator.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\bundles\mvcs\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\bundles\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\commandCenter\api\CommandPayload.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\commandCenter\api\ICommand.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\commandCenter\api\ICommandExecutor.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\commandCenter\api\ICommandMapping.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\commandCenter\api\ICommandMappingList.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\commandCenter\api\ICommandTrigger.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\commandCenter\dsl\ICommandConfigurator.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\commandCenter\dsl\ICommandMapper.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\commandCenter\dsl\ICommandUnmapper.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\commandCenter\impl\CommandExecutor.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\commandCenter\impl\CommandMapper.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\commandCenter\impl\CommandMapping.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\commandCenter\impl\CommandMappingList.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\commandCenter\impl\CommandTriggerMap.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\commandCenter\impl\NullCommandTrigger.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\commandCenter\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\contextView\ContextView.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\contextView\ContextViewExtension.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\contextView\ContextViewListenerConfig.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\contextView\StageSyncExtension.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\contextView\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\directCommandMap\DirectCommandMapExtension.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\directCommandMap\api\IDirectCommandMap.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\directCommandMap\api\IDirectCommandMapper.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\directCommandMap\dsl\IDirectCommandConfigurator.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\directCommandMap\impl\DirectCommandMap.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\directCommandMap\impl\DirectCommandMapper.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\directCommandMap\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\enhancedLogging\InjectableLoggerExtension.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\enhancedLogging\InjectorActivityLoggingExtension.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\enhancedLogging\TraceLoggingExtension.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\enhancedLogging\impl\InjectorListener.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\enhancedLogging\impl\LogMessageParser.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\enhancedLogging\impl\LoggerProvider.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\enhancedLogging\impl\TraceLogTarget.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\enhancedLogging\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\eventCommandMap\EventCommandMapExtension.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\eventCommandMap\api\IEventCommandMap.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\eventCommandMap\impl\EventCommandMap.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\eventCommandMap\impl\EventCommandTrigger.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\eventCommandMap\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\eventDispatcher\EventDispatcherExtension.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\eventDispatcher\impl\EventRelay.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\eventDispatcher\impl\LifecycleEventRelay.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\eventDispatcher\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\localEventMap\LocalEventMapExtension.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\localEventMap\api\IEventMap.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\localEventMap\impl\EventMap.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\localEventMap\impl\EventMapConfig.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\localEventMap\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\matching\ITypeFilter.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\matching\ITypeMatcher.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\matching\ITypeMatcherFactory.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\matching\PackageFilter.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\matching\PackageMatcher.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\matching\TypeFilter.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\matching\TypeMatcher.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\matching\TypeMatcherError.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\matching\instanceOfType.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\matching\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\mediatorMap\MediatorMapExtension.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\mediatorMap\api\IMediator.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\mediatorMap\api\IMediatorMap.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\mediatorMap\api\IMediatorMapping.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\mediatorMap\dsl\IMediatorConfigurator.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\mediatorMap\dsl\IMediatorMapper.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\mediatorMap\dsl\IMediatorUnmapper.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\mediatorMap\impl\MediatorFactory.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\mediatorMap\impl\MediatorManager.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\mediatorMap\impl\MediatorMap.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\mediatorMap\impl\MediatorMapper.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\mediatorMap\impl\MediatorMapping.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\mediatorMap\impl\MediatorViewHandler.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\mediatorMap\impl\NullMediatorUnmapper.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\mediatorMap\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\modularity\ModularityExtension.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\modularity\api\IModuleConnector.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\modularity\dsl\IModuleConnectionAction.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\modularity\impl\ContextViewBasedExistenceWatcher.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\modularity\impl\ModularContextEvent.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\modularity\impl\ModuleConnectionConfigurator.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\modularity\impl\ModuleConnector.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\modularity\impl\ViewManagerBasedExistenceWatcher.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\modularity\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\viewManager\ManualStageObserverExtension.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\viewManager\StageCrawlerExtension.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\viewManager\StageObserverExtension.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\viewManager\ViewManagerExtension.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\viewManager\api\IViewHandler.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\viewManager\api\IViewManager.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\viewManager\impl\ConfigureViewEvent.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\viewManager\impl\ContainerBinding.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\viewManager\impl\ContainerBindingEvent.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\viewManager\impl\ContainerRegistry.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\viewManager\impl\ContainerRegistryEvent.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\viewManager\impl\ManualStageObserver.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\viewManager\impl\StageCrawler.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\viewManager\impl\StageObserver.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\viewManager\impl\ViewManager.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\viewManager\impl\ViewManagerEvent.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\viewManager\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\viewProcessorMap\ViewProcessorMapExtension.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\viewProcessorMap\api\IViewProcessorMap.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\viewProcessorMap\api\ViewProcessorMapError.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\viewProcessorMap\dsl\IViewProcessorMapper.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\viewProcessorMap\dsl\IViewProcessorMapping.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\viewProcessorMap\dsl\IViewProcessorMappingConfig.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\viewProcessorMap\dsl\IViewProcessorUnmapper.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\viewProcessorMap\impl\IViewProcessorFactory.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\viewProcessorMap\impl\IViewProcessorViewHandler.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\viewProcessorMap\impl\NullProcessor.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\viewProcessorMap\impl\NullViewProcessorUnmapper.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\viewProcessorMap\impl\ViewInjectionProcessor.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\viewProcessorMap\impl\ViewProcessorFactory.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\viewProcessorMap\impl\ViewProcessorMap.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\viewProcessorMap\impl\ViewProcessorMapper.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\viewProcessorMap\impl\ViewProcessorMapping.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\viewProcessorMap\impl\ViewProcessorViewHandler.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\viewProcessorMap\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\viewProcessorMap\utils\FastPropertyInjector.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\viewProcessorMap\utils\MediatorCreator.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\viewProcessorMap\utils\PropertyValueInjector.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\vigilance\VigilanceExtension.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\vigilance\VigilantError.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\extensions\vigilance\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\framework\api\IBundle.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\framework\api\IConfig.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\framework\api\IContext.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\framework\api\IExtension.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\framework\api\IGuard.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\framework\api\IHook.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\framework\api\IInjector.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\framework\api\ILifecycle.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\framework\api\ILogTarget.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\framework\api\ILogger.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\framework\api\IMatcher.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\framework\api\LifecycleError.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\framework\api\LifecycleEvent.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\framework\api\LifecycleState.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\framework\api\LogLevel.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\framework\api\PinEvent.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\framework\impl\ConfigManager.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\framework\impl\Context.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\framework\impl\ExtensionInstaller.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\framework\impl\Lifecycle.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\framework\impl\LifecycleTransition.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\framework\impl\LogManager.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\framework\impl\Logger.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\framework\impl\MessageDispatcher.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\framework\impl\ObjectProcessor.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\framework\impl\Pin.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\framework\impl\RobotlegsInjector.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\framework\impl\UID.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\framework\impl\applyHooks.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\framework\impl\guardsApprove.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\framework\impl\safelyCallBack.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\framework\readme-async.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\framework\readme-context.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\framework\readme-guards.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\framework\readme-hooks.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\framework\readme-lifecycle.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\framework\readme-logging.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\framework\readme-message-dispatcher.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\framework\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\mxml\ContextBuilderTag.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\mxml\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\bender\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\src\HelloWorldContext.as" afterPath="" />
+      <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\src\Main.as" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Project_Robotlegs1.as" afterPath="$PROJECT_DIR$/src/Project_Robotlegs1.as" />
+    </list>
+    <ignored path="Project_Robotlegs1.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="F:/E4K_Workspace/2014_04_10_Prime_Day_Special_Offer/.idea/workspace.xml" changelist="e0413cbc-8e61-4f9a-9af9-5faccbb5af5e" time="1437516689513" ignored="false" />
+    <file path="/fragment.js2" changelist="e0413cbc-8e61-4f9a-9af9-5faccbb5af5e" time="1437600182155" ignored="false" />
+    <file path="/HelloWorldContext.as" changelist="e0413cbc-8e61-4f9a-9af9-5faccbb5af5e" time="1437600820956" ignored="false" />
+    <file path="/Project_Robotlegs1.as" changelist="e0413cbc-8e61-4f9a-9af9-5faccbb5af5e" time="1437515187722" ignored="false" />
+    <file path="/a.dummy" changelist="e0413cbc-8e61-4f9a-9af9-5faccbb5af5e" time="1437514723396" ignored="false" />
+    <file path="/MessageView.as" changelist="e0413cbc-8e61-4f9a-9af9-5faccbb5af5e" time="1437514458401" ignored="false" />
+    <file path="/MessageViewMediator.as" changelist="e0413cbc-8e61-4f9a-9af9-5faccbb5af5e" time="1437514643595" ignored="false" />
+    <file path="/Dummy.txt" changelist="e0413cbc-8e61-4f9a-9af9-5faccbb5af5e" time="1437774320475" ignored="false" />
+    <file path="$PROJECT_DIR$/../Learning_Robotlegs/Robotlegs_Proj1/.idea/workspace.xml" changelist="e0413cbc-8e61-4f9a-9af9-5faccbb5af5e" time="1437601004792" ignored="false" />
+    <file path="$PROJECT_DIR$/../Learning_Robotlegs/Robotlegs_Proj1/src/HelloWorldContext.as" changelist="e0413cbc-8e61-4f9a-9af9-5faccbb5af5e" time="1437600935853" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Project_Robotlegs1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Project_Robotlegs1.as" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Project_Robotlegs1.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="17" selection-start="156" selection-end="156" vertical-scroll-proportion="0.33392859">
+              <folding>
+                <element signature="e#12#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelloWorldContext.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/context/HelloWorldContext.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="26" selection-start="826" selection-end="826" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MessageView.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/view/MessageView.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="9" selection-start="156" selection-end="156" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MessageViewMediator.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/view/MessageViewMediator.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="21" selection-start="107" selection-end="107" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="userqt" />
+      </list>
+    </option>
+    <option name="SYNC_SETTING" value="DONT" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/HelloWorldContext.as" />
+        <option value="$PROJECT_DIR$/src/view/MessageView.as" />
+        <option value="$PROJECT_DIR$/src/view/MessageViewMediator.as" />
+        <option value="$PROJECT_DIR$/src/context/HelloWorldContext.as" />
+        <option value="$PROJECT_DIR$/src/Project_Robotlegs1.as" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1378" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project_Robotlegs1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project_Robotlegs1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project_Robotlegs1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project_Robotlegs1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project_Robotlegs1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project_Robotlegs1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project_Robotlegs1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project_Robotlegs1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project_Robotlegs1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="context" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project_Robotlegs1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project_Robotlegs1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
+    <property name="options.lastSelected" value="preferences.pluginManager" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Proj_Robotlegs1" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="PublishConfig">
+    <servers>
+      <server id="6276bba1-ee09-4dcd-9a89-e4d1268a4061">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+    </servers>
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateActionScriptClassDialog.DESTINATION_PACKAGE_RECENT_KEY">
+      <recent name="view" />
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\workspace\Project_Robotlegs1\src\context" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flash App.Project_Robotlegs1">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" output_log_level="null" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browserFamily" value="FIREFOX" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browserFamily" value="FIREFOX" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Project_Robotlegs1" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="Project_Robotlegs1" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browserFamily" value="FIREFOX" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="Project_Robotlegs1" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <RunnerSettings RunnerId="FlexDebugRunner" />
+      <ConfigurationWrapper RunnerId="FlexDebugRunner" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Flash App.Project_Robotlegs1" />
+    </list>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="false">C:\Users\rose\AppData\Roaming\Subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0413cbc-8e61-4f9a-9af9-5faccbb5af5e" name="Default" comment="" />
+      <created>1437512219960</created>
+      <updated>1437512219960</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Test">
+      <created>1437598825059</created>
+      <updated>1437598825059</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Test">
+      <created>1437600312485</created>
+      <updated>1437600312485</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3105802" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.67064846" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32935154" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="Test" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Project_Robotlegs1.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#12#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/context/HelloWorldContext.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="21" selection-start="1274" selection-end="1316" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/MessageView.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="9" selection-start="156" selection-end="156" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/MessageViewMediator.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="21" selection-start="107" selection-end="107" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project_Robotlegs1.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="12" selection-start="302" selection-end="302" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#12#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/context/HelloWorldContext.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="51" selection-start="1497" selection-end="1497" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/MessageView.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/MessageViewMediator.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="21" selection-start="107" selection-end="107" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/robotlegs-framework-v1.5.2.swc!/library.swf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="279" column="32" selection-start="13633" selection-end="13633" vertical-scroll-proportion="0.33241758" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/MessageView.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="9" selection-start="156" selection-end="156" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/MessageViewMediator.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="21" selection-start="107" selection-end="107" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="26" selection-start="26" selection-end="26" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/context/HelloWorldContext.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="26" selection-start="826" selection-end="826" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project_Robotlegs1.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="17" selection-start="156" selection-end="156" vertical-scroll-proportion="0.33392859">
+          <folding>
+            <element signature="e#12#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Project_Robotlegs1|Project_Robotlegs1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

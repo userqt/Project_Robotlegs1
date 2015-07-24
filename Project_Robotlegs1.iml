@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="Flex" version="4">
+  <component name="FlexBuildConfigurationManager" active="Project_Robotlegs1">
+    <configurations>
+      <configuration name="Project_Robotlegs1" target-platform="Desktop" pure-as="true" main-class="Project_Robotlegs1" output-file="Project_Robotlegs1.swf" output-folder="$MODULE_DIR$/out/production/Project_Robotlegs1">
+        <dependencies target-player="11.1">
+          <entries>
+            <entry library-id="6a32b8b4-2223-4e4d-9127-f04d0f99cbb6">
+              <dependency linkage="Merged" />
+            </entry>
+          </entries>
+          <sdk name="AIR_FLEX_SDK" />
+        </dependencies>
+        <compiler-options />
+        <packaging-air-desktop package-file-name="Project_Robotlegs1" />
+        <packaging-android />
+        <packaging-ios />
+      </configuration>
+    </configurations>
+    <compiler-options />
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="AIR_FLEX_SDK" jdkType="Flex SDK Type (new)" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="6a32b8b4-2223-4e4d-9127-f04d0f99cbb6" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/robotlegs-framework-v1.5.2.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
+

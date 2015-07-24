@@ -16,6 +16,7 @@ package
 		{
 			_context = new HelloWorldContext( this );
 			init();
+
 		}
 
 		private function init():void
