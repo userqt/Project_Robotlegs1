@@ -2,23 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0413cbc-8e61-4f9a-9af9-5faccbb5af5e" name="Default" comment="Test">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/robotlegs-framework-v1.5.2.swc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/context/HelloWorldContext.as" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/view/MessageView.as" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/view/MessageViewMediator.as" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project_Robotlegs1.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/flexCompiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\.idea\.name" afterPath="" />
       <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\.idea\compiler.xml" afterPath="" />
       <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\.idea\copyright\profiles_settings.xml" afterPath="" />
@@ -624,7 +607,7 @@
       <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\robotlegs\src\robotlegs\readme.md" afterPath="" />
       <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\src\HelloWorldContext.as" afterPath="" />
       <change type="DELETED" beforePath="F:\workspace\checkout\Robotlegs_Learning\Robotlegs_Proj1\src\Main.as" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Project_Robotlegs1.as" afterPath="$PROJECT_DIR$/src/Project_Robotlegs1.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Project_Robotlegs1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -635,7 +618,7 @@
     <file path="/a.dummy" changelist="e0413cbc-8e61-4f9a-9af9-5faccbb5af5e" time="1437514723396" ignored="false" />
     <file path="/MessageView.as" changelist="e0413cbc-8e61-4f9a-9af9-5faccbb5af5e" time="1437514458401" ignored="false" />
     <file path="/MessageViewMediator.as" changelist="e0413cbc-8e61-4f9a-9af9-5faccbb5af5e" time="1437514643595" ignored="false" />
-    <file path="/Dummy.txt" changelist="e0413cbc-8e61-4f9a-9af9-5faccbb5af5e" time="1437774320475" ignored="false" />
+    <file path="/Dummy.txt" changelist="e0413cbc-8e61-4f9a-9af9-5faccbb5af5e" time="1437775646203" ignored="false" />
     <file path="$PROJECT_DIR$/../Learning_Robotlegs/Robotlegs_Proj1/.idea/workspace.xml" changelist="e0413cbc-8e61-4f9a-9af9-5faccbb5af5e" time="1437601004792" ignored="false" />
     <file path="$PROJECT_DIR$/../Learning_Robotlegs/Robotlegs_Proj1/src/HelloWorldContext.as" changelist="e0413cbc-8e61-4f9a-9af9-5faccbb5af5e" time="1437600935853" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -1151,12 +1134,16 @@
       <created>1437600312485</created>
       <updated>1437600312485</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Test">
+      <created>1437774747994</created>
+      <updated>1437774747994</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1169,6 +1156,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1180,7 +1168,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32935154" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1335,7 +1322,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="26" selection-start="26" selection-end="26" vertical-scroll-proportion="0.0" />
+        <state line="0" column="26" selection-start="26" selection-end="26" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/context/HelloWorldContext.as">
