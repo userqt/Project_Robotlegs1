@@ -3,6 +3,8 @@ package context
 
 	import org.robotlegs.mvcs.Context;
 
+	import view.buttons.HelloButton;
+	import view.buttons.HelloButtonMediator;
 	import view.MessageView;
 	import view.MessageViewMediator;
 
@@ -41,6 +43,7 @@ package context
 			 * as their corresponding view components are added and removed from the display list
 			 */
 			mediatorMap.mapView( MessageView, MessageViewMediator );
+			mediatorMap.mapView( HelloButton, HelloButtonMediator );
 		}
 	}
 }
